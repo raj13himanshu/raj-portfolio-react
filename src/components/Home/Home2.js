@@ -30,10 +30,11 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">Web applications and Products </b> and
+                also in{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  develop and design creative and fully responsive User
+                  Interface.
                 </b>
               </i>
               <br />
@@ -48,10 +49,11 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> jQuery, React.js and Express.js</b>
+                <b className="purple">React.js, jQuery, Material UI and Bootstrap</b>
               </i>
             </p>
           </Col>
+
           <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
